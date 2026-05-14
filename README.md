@@ -15,27 +15,11 @@ Outside of work, you'll find me at the gym, exploring new restaurants or plannin
 
 ## 🛠 Tech Stack
 
-**Languages**
-
-- Python, Java, JavaScript (ES6+), TypeScript, SQL
-
-**Backend & APIs**
-
-- FastAPI, Node.js / Express, REST APIs, ETL pipelines
-
-**Frontend**
-
-- React, HTML5, CSS3, Tailwind
-
-**Machine Learning & AI**
-
-- Scikit‑learn, PyTorch, TensorFlow  
-- Transformers, Hugging Face, RAG (LangChain, LlamaIndex), Vector DBs (FAISS, Chroma)
-
-**Cloud & DevOps**
-
-- AWS (S3, EC2, Lambda, SageMaker), Azure  
-- Docker, CI/CD (GitHub Actions), Postgres, MySQL
+- Languages: Python, Java, JavaScript/TypeScript, SQL  
+- Backend: FastAPI, Node.js/Express, REST APIs, ETL  
+- Frontend: React, HTML, CSS, Tailwind  
+- ML/AI: Scikit‑learn, PyTorch, Transformers, RAG (LangChain, LlamaIndex)  
+- Cloud & DevOps: AWS, Azure, Docker, GitHub Actions, Postgres/MySQL
 
 ## 💼 Experience
 
