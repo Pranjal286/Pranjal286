@@ -51,9 +51,6 @@ May 2021 – Aug 2023 · India
 - Exposes a clean REST API (`/score`) and a simple web UI that calls the ML model.  
 - Shows probability of default and a simple risk label (HIGH / LOW).
 
-Repo: [credit-risk-scoring-portal](https://github.com/Pranjal286/credit-risk-scoring-portal)  
-Live: `[ADD DEPLOYED LINK HERE]`
-
 ---
 
 ### 🔹 Patient Risk Stratification Dashboard
@@ -62,9 +59,6 @@ Live: `[ADD DEPLOYED LINK HERE]`
 - React dashboard to enter patient data and visualize risk scores and feature importance.  
 - Highlights how ML can support clinicians with decision support (not medical advice).
 
-Repo: `[COMING SOON]`  
-Live: `[COMING SOON]`
-
 ---
 
 ### 🔹 Clinical Notes RAG Assistant
@@ -72,9 +66,6 @@ Live: `[COMING SOON]`
 - Upload synthetic medical/clinical notes and ask natural‑language questions.  
 - Uses retrieval‑augmented generation to answer with citations to the underlying documents.  
 - Demonstrates your experience with RAG pipelines and vector databases.
-
-Repo: `[COMING SOON]`  
-Live: `[COMING SOON]`
 
 ---
 
