@@ -37,8 +37,6 @@ Outside of work, you'll find me at the gym, exploring new restaurants or plannin
 - AWS (S3, EC2, Lambda, SageMaker), Azure  
 - Docker, CI/CD (GitHub Actions), Postgres, MySQL
 
-## 💼 Experience (Highlights)
-
 ## 💼 Experience
 
 ### JPMorgan Chase & Co. — AI/ML Engineer  
