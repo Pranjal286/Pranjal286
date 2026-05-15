@@ -68,7 +68,7 @@ May 2021 – Aug 2023 · India
 - Demonstrates your experience with RAG pipelines and vector databases.
 
 ---
-##📜 Certifications
+## 📜 Certifications
 
 **AWS Certified AI Practitioner**
 
