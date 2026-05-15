@@ -69,9 +69,9 @@ May 2021 – Aug 2023 · India
 
 ---
 ##📜 Certifications
-**AWS Certified AI Practitioner
-**AWS Certified Machine Learning Associate
-**AWS Certified CLoud Practitioner
+**AWS Certified AI Practitioner**
+**AWS Certified Machine Learning Associate**
+**AWS Certified CLoud Practitioner**
 ## 📫 Contact
 
 - 📧 Email: **pranjalbpatel@gmail.com**
