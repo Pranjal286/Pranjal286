@@ -23,7 +23,7 @@ Outside of work, you'll find me at the gym, exploring new restaurants or plannin
 
 ## 💼 Experience
 
-### JPMorgan Chase & Co. — AI/ML Engineer  
+### JPMorgan Chase & Co. — Machine Learning Engineer  
 Feb 2025 – Present · CA
 
 - Build and maintain fraud detection and anomaly detection models on transaction data using Gradient Boosting and PyTorch, helping reduce false positives and manual review effort.  
@@ -33,7 +33,7 @@ Feb 2025 – Present · CA
 - Build interpretable credit‑risk models with Shapley‑style explainability and documentation that help audit, risk, and product teams understand model decisions.  
 - Implement a retrieval‑augmented generation (RAG) system with LlamaIndex and FAISS for internal document search, reducing research time for operations and risk users.
 
-### Cred — ML Engineer  
+### Cred — Machine Learning Engineer  
 May 2021 – Aug 2023 · India
 
 - Delivered production CV pipelines using OpenCV and YOLO, with playbooks and troubleshooting guides so client teams could operate and fine‑tune models.  
