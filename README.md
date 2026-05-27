@@ -23,15 +23,15 @@ Outside of work, you'll find me at the gym, exploring new restaurants or plannin
 
 ## 💼 Experience
 
-### JPMorgan Chase & Co. — Machine Learning Engineer  
-Feb 2025 – Present · CA
+### Blackrock — Machine Learning Engineer  
+Feb 2025 – Present · NY
 
-- Build and maintain fraud detection and anomaly detection models on transaction data using Gradient Boosting and PyTorch, helping reduce false positives and manual review effort.  
-- Design end‑to‑end ML pipelines on AWS (SageMaker, Lambda, Step Functions) so non‑ML teams can retrain and deploy models without waiting for manual releases.  
-- Work with risk and compliance teams to roll out real‑time anomaly detection on streaming data (Kafka + Spark), improving risk‑flagging latency and alert usability.  
-- Develop time‑series models (Prophet, LSTM, XGBoost) for liquidity and cash‑flow forecasting, and turn them into dashboards and reports for treasury stakeholders.  
-- Build interpretable credit‑risk models with Shapley‑style explainability and documentation that help audit, risk, and product teams understand model decisions.  
-- Implement a retrieval‑augmented generation (RAG) system with LlamaIndex and FAISS for internal document search, reducing research time for operations and risk users.
+ - Built and deployed fraud detection and anomaly detection models on transaction data using Gradient Boosting and PyTorch, reducing false positives and manual review effort for risk teams.
+ - Designed end-to-end ML pipelines on AWS (SageMaker, Lambda, Step Functions), enabling automated model retraining and deployment without manual intervention.
+ - Partnered with risk and compliance teams to deliver real-time anomaly detection on streaming data using Kafka and Spark, improving alert latency and usability.
+ - Developed time-series forecasting models using Prophet, LSTM, and XGBoost for liquidity and cash-flow prediction, delivering dashboards and reports for treasury stakeholders.
+ - Built interpretable credit risk models with Shapley-based explainability, producing audit-ready documentation for risk, product, and regulatory teams.
+ - Implemented a retrieval-augmented generation system using LlamaIndex and FAISS for internal document search, reducing research turnaround time for operations and risk users.
 
 ### Cred — Machine Learning Engineer  
 May 2021 – Aug 2023 · India
