@@ -1,83 +1,88 @@
-# Hi, I'm Pranjal Patel 👋
+# Hi, I'm Pranjal 👋
 
-AI/ML & Full‑Stack Engineer.  
-I love turning data and machine learning into real, user‑facing applications.
+AI/ML and full‑stack engineer who enjoys turning messy data into real products that people use.
 
-- 🌍 Based in California, USA
-- 💼 Open to roles: ML Engineer, AI Engineer, Software Engineer, Data Engineer.
-- 🧠 Interests: Prompt Engineering, Fraud detection, risk scoring, RAG systems, medical analytics.
+- 🌍 Based in New Jersey, USA
+- 🎯 Open to: Machine Learning Engineer, AI Engineer, Software Engineer
+- 🔎 Focus areas: Fraud and risk modeling, RAG systems, medical and financial analytics
 
-## 🧑‍💻 About Me
+## About
 
-I'm an AI engineer with experience in building full‑stack web apps and data/ETL pipelines on AWS and Azure.  
-Recently, I've focused on financial risk models,real‑time fraud detection and LLM/RAG systems that help non‑technical users work with complex data.
-Outside of work, you'll find me at the gym, exploring new restaurants or planning my next trip.
+I work across the stack: from data pipelines and ML models to APIs and simple UIs.  
+Recently I’ve been building fraud detection systems, credit risk models, and RAG tools that help non‑technical teams make better, faster decisions.
 
-## 🛠 Tech Stack
+When I’m not coding, I’m usually at the gym, skiing in the winter, or exploring new restaurants.
+
+## Tech I use
 
 - Languages: Python, Java, JavaScript/TypeScript, SQL  
 - Backend: FastAPI, Node.js/Express, REST APIs, ETL  
 - Frontend: React, HTML, CSS, Tailwind  
 - ML/AI: Scikit‑learn, PyTorch, Transformers, RAG (LangChain, LlamaIndex)  
-- Cloud & DevOps: AWS, Azure, Docker, GitHub Actions, Postgres/MySQL
+- Cloud & MLOps: AWS, Azure, Docker, GitHub Actions, Postgres/MySQL
 
-## 💼 Experience
+## Experience
 
-### Blackrock — Machine Learning Engineer  
-Feb 2025 – Present · NY
+**Machine Learning Engineer – BlackRock**  
+_New York · 2025 – Present_
 
- - Built and deployed fraud detection and anomaly detection models on transaction data using Gradient Boosting and PyTorch, reducing false positives and manual review effort for risk teams.
- - Designed end-to-end ML pipelines on AWS (SageMaker, Lambda, Step Functions), enabling automated model retraining and deployment without manual intervention.
- - Partnered with risk and compliance teams to deliver real-time anomaly detection on streaming data using Kafka and Spark, improving alert latency and usability.
- - Developed time-series forecasting models using Prophet, LSTM, and XGBoost for liquidity and cash-flow prediction, delivering dashboards and reports for treasury stakeholders.
- - Built interpretable credit risk models with Shapley-based explainability, producing audit-ready documentation for risk, product, and regulatory teams.
- - Implemented a retrieval-augmented generation system using LlamaIndex and FAISS for internal document search, reducing research turnaround time for operations and risk users.
+- Build and deploy fraud and anomaly detection models on transaction data, cutting false positives and manual reviews for risk teams.  
+- Design end‑to‑end ML pipelines on AWS (SageMaker, Lambda, Step Functions) so models retrain and ship with minimal manual work.  
+- Work with risk and compliance teams on real‑time anomaly detection over streaming data (Kafka, Spark) to improve alert quality and latency.  
+- Build time‑series models for liquidity and cash‑flow forecasting, plus dashboards for treasury stakeholders.  
+- Implement RAG document search using LlamaIndex and FAISS to reduce research time for internal teams.
 
-### Cred — Machine Learning Engineer  
-May 2021 – Aug 2023 · India
+**Machine Learning Engineer – Cred**  
+_India · 2022 – 2023_
 
-- Delivered production CV pipelines using OpenCV and YOLO, with playbooks and troubleshooting guides so client teams could operate and fine‑tune models.  
-- Built NLP classification and entity‑extraction models with Transformers and Hugging Face, replacing rule‑based systems and improving accuracy on multilingual data.  
-- Developed scalable data workflows with Spark and Airflow, plus SLAs, data‑quality checks, and dashboards that improved reliability for downstream analytics.  
-- Implemented recommendation and ranking models (collaborative filtering, Gradient Boosting) and partnered with marketing/growth for A/B tests and rollouts.  
-- Created microservices with FastAPI, Docker, and JavaScript frontends to expose AI capabilities via APIs for partner product teams.  
-- Optimized heavy CV/NLP training with distributed training (Dask, PyTorch Data Parallel) and set up experiment tracking with MLflow and Weights & Biases.
+- Shipped CV pipelines with OpenCV and YOLO, along with playbooks so client teams could operate and fine‑tune models.  
+- Built NLP classification and entity‑extraction models with Transformers and Hugging Face, replacing rule‑based systems on multilingual data.  
+- Developed Spark + Airflow pipelines with SLAs and data‑quality checks to keep downstream analytics reliable.  
+- Implemented recommendation and ranking models (collaborative filtering, Gradient Boosting) used by growth and marketing.  
+- Exposed models as microservices via FastAPI and Docker, with JavaScript frontends where needed.
 
-## 🚀 Featured Projects
+## Selected projects
 
-### 🔹 Credit Risk Scoring Portal
-**Stack:** FastAPI, scikit‑learn, HTML/CSS/JS, Docker  
-- Demo app for lenders to estimate **credit default risk** based on a few input features.  
-- Exposes a clean REST API (`/score`) and a simple web UI that calls the ML model.  
-- Shows probability of default and a simple risk label (HIGH / LOW).
+### Morph & Split – End-to-end ML dataset preparation tool
+_Python · TensorFlow · Full‑stack web · LLM integration_
 
----
+Full‑stack web app to streamline image–mask preprocessing for computer vision workflows.  
+Implements stratified dataset splitting, augmentation, cropping, and resizing with automatic TensorFlow‑ready output so pipelines are reproducible and less error‑prone.
 
-### 🔹 Patient Risk Stratification Dashboard
-**Stack:** FastAPI, scikit‑learn/XGBoost, React, Plotly  
-- Predicts whether a patient is at **high risk** based on clinical features (demo dataset).  
-- React dashboard to enter patient data and visualize risk scores and feature importance.  
-- Highlights how ML can support clinicians with decision support (not medical advice).
+### Brain Tumor Segmentation from MRI scans
+_Python · PyTorch · nnU‑Net · Medical imaging_
+
+Built an nnU‑Net based model to segment brain tumors from T1, T2, and FLAIR MRI scans.  
+Trained and evaluated on the BraTS dataset to delineate tumor core, edema, and enhancing regions, reducing reliance on manual radiologist annotation.
 
 ---
 
-### 🔹 Clinical Notes RAG Assistant
-**Stack:** FastAPI, LangChain/LlamaIndex, FAISS/Chroma, LLM API, Streamlit/React  
-- Upload synthetic medical/clinical notes and ask natural‑language questions.  
-- Uses retrieval‑augmented generation to answer with citations to the underlying documents.  
-- Demonstrates your experience with RAG pipelines and vector databases.
+### Credit Risk Scoring Portal
+_FastAPI · scikit‑learn · Docker_
 
----
-## 📜 Certifications
+Demo portal for lenders to estimate credit default risk from a few input features.  
+Includes a REST API (`/score`) and a small web UI that returns probability of default and a simple risk label.
 
-**AWS Certified AI Practitioner**
+### Patient Risk Stratification Dashboard
+_FastAPI · scikit‑learn/XGBoost · React · Plotly_
 
-**AWS Certified Machine Learning Associate**
+Dashboard that predicts high‑risk patients from clinical features (demo dataset).  
+React frontend to enter patient data, see risk scores, and visualize feature importance.
 
-**AWS Certified CLoud Practitioner**
+### Clinical Notes RAG Assistant
+_FastAPI · LangChain/LlamaIndex · FAISS/Chroma · Streamlit/React_
 
-## 📫 Contact
+Upload synthetic medical/clinical notes and query them in natural language.  
+Uses retrieval‑augmented generation and returns answers with citations to the original documents.
 
-- 📧 Email: **pranjalbpatel@gmail.com**
-- 🔗 LinkedIn: `https://www.linkedin.com/in/pranjalpatel286/`
-- 📍 Location: California, USA
+## Certifications
+
+- AWS Certified AI Practitioner  
+- AWS Certified Machine Learning – Associate  
+- AWS Certified Cloud Practitioner  
+
+## Contact
+
+- 📧 Email: **pranjalbpatel@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/pranjalpatel286](https://www.linkedin.com/in/pranjalpatel286/)  
+- 📍 Location: New York, USA
