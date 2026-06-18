@@ -24,7 +24,7 @@ When I’m not coding, I’m usually at the gym, skiing in the winter, or explor
 ## 💼 Experience
 
 **Machine Learning Engineer – BlackRock**  
-_New York · 2025 – Present_
+_New York · July 2025 – Present_
 
 - Build and deploy fraud and anomaly detection models on transaction data, cutting false positives and manual reviews for risk teams.  
 - Design end‑to‑end ML pipelines on AWS (SageMaker, Lambda, Step Functions) so models retrain and ship with minimal manual work.  
@@ -33,13 +33,19 @@ _New York · 2025 – Present_
 - Implement RAG document search using LlamaIndex and FAISS to reduce research time for internal teams.
 
 **Machine Learning Engineer – Cred**  
-_India · 2022 – 2023_
+_India · May 2022 – August 2023_
 
 - Shipped CV pipelines with OpenCV and YOLO, along with playbooks so client teams could operate and fine‑tune models.  
 - Built NLP classification and entity‑extraction models with Transformers and Hugging Face, replacing rule‑based systems on multilingual data.  
 - Developed Spark + Airflow pipelines with SLAs and data‑quality checks to keep downstream analytics reliable.  
 - Implemented recommendation and ranking models (collaborative filtering, Gradient Boosting) used by growth and marketing.  
 - Exposed models as microservices via FastAPI and Docker, with JavaScript frontends where needed.
+
+**Machine Learning Engineer Intern – Cred**  
+_India · July 2020 – May 2021_
+
+- Researched and built YOLO‑based detection models for driver monitoring in self‑driving systems (face, gaze, eye closure, posture) to flag drowsiness and distraction.  
+- Optimized and deployed the detection pipeline across cloud and edge devices to deliver low‑latency inference and move from research prototype to production‑ready system.
 
 ## 🚀 Featured Projects
 
