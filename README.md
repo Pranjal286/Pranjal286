@@ -2,7 +2,7 @@
 
 AI/ML and full‑stack engineer who enjoys turning messy data into real products that people use.
 
-- 🌍 Based in New Jersey, USA
+- 🌍 Based in New York, USA
 - 🎯 Open to: Machine Learning Engineer, AI Engineer, Software Engineer
 - 🔎 Focus areas: Fraud and risk modeling, RAG systems, medical and financial analytics
 
